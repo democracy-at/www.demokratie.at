@@ -1,3 +1,3 @@
 
-![Nudelsieb](https://res.cloudinary.com/ontore/image/upload/fl_any_format/v1638974030/2021-12-08-Nudelsieb-cropped_ilwyml.png)
+![Nudelsieb](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format,w_600/v1638974030/2021-12-08-Nudelsieb-cropped_ilwyml.png)
 
