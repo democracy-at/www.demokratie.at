@@ -10,7 +10,7 @@ title: Demokratie in Österreich
 email: ""
 description: ""
   
-logo: "assets/images/demokratie_ddl9ca.jpg"
+logo: "https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.preserve_transparency,w_140/v1638988966/2021-11-11-Nagarro-Oliver-Hoffmann-1-removebg-zoom-1_tep6f0.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
