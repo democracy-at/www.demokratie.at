@@ -6,4 +6,4 @@ Der Gesundheitsminister hat [öffentlich betont](https://orf.at/stories/3239263
 
 ![Nudelsieb](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format,w_600/v1638974030/2021-12-08-Nudelsieb-cropped_ilwyml.png)
 
-Kontakt: [Telegram](https://t.me/ontore)
+Kommentare und Anregungen vor der Einreichung der Stellungnahme: [Telegram](https://t.me/ontore)
