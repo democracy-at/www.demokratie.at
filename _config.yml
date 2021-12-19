@@ -12,7 +12,7 @@ description: ""
   
 logo: "assets/images/2021-12-08-Nagarro-Oliver-Hoffmann-1-removebg-zoom-2-scaled-2.png"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://www.democracy.at" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
 
 name: ""
